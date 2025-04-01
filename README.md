@@ -50,7 +50,7 @@ To set up and run the Edvaan project, follow these steps:<br>
   Run the Django development server:<br>
   python manage.py runserver<br>
 <br>
-4.Access the Application<br>
-  You can access the platform at:<br>
-  http://127.0.0.1:8000<br>
+ **4.** Access the Application<br>
+    You can access the platform at:<br>
+    http://127.0.0.1:8000<br>
 <br>
