@@ -35,22 +35,26 @@ redis==3.5.3<br>
 <br>
 To set up and run the Edvaan project, follow these steps:<br>
 <br>
-1.Clone the Repository<br>
-  Clone the repository to your local machine:<br>
-  <br>
-  git clone https://github.com/yourusername/Micro.git<br>
-  cd CodeForge/Edvaan<br>
+**1.**
+    Clone the Repository<br>
+    Clone the repository to your local machine:<br>
+    <br>
+    git clone https://github.com/yourusername/Micro.git<br>
+    cd CodeForge/Edvaan<br>
 <br>
-2.Install Dependencies<br>
-  Install all required Python dependencies listed in requirements.txt:<br>
-  <br>
-  pip install -r requirements.txt<br>
+**2.**
+    Install Dependencies<br>
+    Install all required Python dependencies listed in requirements.txt:<br>
+    <br>
+    pip install -r requirements.txt<br>
 <br>
-3.Start the Development Server<br>
-  Run the Django development server:<br>
-  python manage.py runserver<br>
+**3.**
+    Start the Development Server<br>
+    Run the Django development server:<br>
+    python manage.py runserver<br>
 <br>
- **4.** Access the Application<br>
+ **4.** 
+    Access the Application<br>
     You can access the platform at:<br>
     http://127.0.0.1:8000<br>
 <br>
